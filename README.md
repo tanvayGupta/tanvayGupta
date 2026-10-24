@@ -1,4 +1,4 @@
-# ⚡ TANVAY GUPTA
+# tanvayGupta
 
 <div align="center">
 
